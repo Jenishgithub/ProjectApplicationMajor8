@@ -15,6 +15,7 @@ public class MainActivity extends Activity {
 	Bitmap photo;
 	public static int progress;
 //edited by alterigo
+	//edited by jenish
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
