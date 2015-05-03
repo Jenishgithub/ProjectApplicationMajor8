@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
 	SeekBar bar1, bar2;
 	Bitmap photo;
 	public static int progress;
-
+//edited by alterigo
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
