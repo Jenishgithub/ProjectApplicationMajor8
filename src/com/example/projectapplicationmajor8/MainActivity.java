@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
 //edited by alterigo
 	//edited by jenish
 	//yo this is jenish fucking shakya in the fucking club houses
+	//editede on my own pc
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
