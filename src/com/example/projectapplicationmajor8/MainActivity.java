@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 	public static int progress;
 //edited by alterigo
 	//edited by jenish
+	//yo this is jenish fucking shakya in the fucking club houses
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
