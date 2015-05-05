@@ -14,11 +14,7 @@ public class MainActivity extends Activity {
 	SeekBar bar1, bar2;
 	Bitmap photo;
 	public static int progress;
-//edited by alterigo
-	//edited by jenish
-	//yo this is jenish fucking shakya in the fucking club houses
-	//editede on my own pc
-	//again edited on urusha's pc
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
